@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/devonwubiko/frontendmentorchallenge-qrcode)
+- Live Site URL: [Add live site URL here](https://devonwubiko.github.io/frontendmentorchallenge-qrcode/)
 
 
 ## My Process
@@ -64,7 +64,11 @@ With this resource, I learnt how to add screenshots to a github README file
 ## Socials
 
 ---
-[![twitter](https://user-images.githubusercontent.com/100605229/233794068-1f9f9bde-42c5-4c17-bc21-bec64390172a.png)][1][![facebook](https://user-images.githubusercontent.com/100605229/233794065-cfd3b349-7759-4d88-897a-fc5aee7be524.png)][2][![linkedin](https://user-images.githubusercontent.com/100605229/233794067-2445410f-9574-45ef-a7c0-11533d11a0d7.png)][3]
+[![twitter](https://user-images.githubusercontent.com/100605229/233794068-1f9f9bde-42c5-4c17-bc21-bec64390172a.png)][1]
+
+[![facebook](https://user-images.githubusercontent.com/100605229/233794065-cfd3b349-7759-4d88-897a-fc5aee7be524.png)][2]
+
+[![linkedin](https://user-images.githubusercontent.com/100605229/233794067-2445410f-9574-45ef-a7c0-11533d11a0d7.png)][3]
 ---
 
 
