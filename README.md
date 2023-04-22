@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/devonwubiko/frontendmentorchallenge-qrcode)
-- Live Site URL: [Add live site URL here](https://devonwubiko.github.io/frontendmentorchallenge-qrcode/)
+- Solution URL: [View Solution URL here](https://github.com/devonwubiko/frontendmentorchallenge-qrcode)
+- Live Site URL: [View Live site URL here](https://devonwubiko.github.io/frontendmentorchallenge-qrcode/)
 
 
 ## My Process
@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS3
 
 ### What I learned
-I learnt how to center a div (it looks zsurprisingly easy in theory but practically, that was the hardest part of te project)
+I learnt how to center a div (It looks surprisingly easy in theory but practically, that was the hardest part of the project)
 
 ### Useful resources
 
@@ -67,11 +67,10 @@ With this resource, I learnt how to add screenshots to a github README file
 [![twitter](https://user-images.githubusercontent.com/100605229/233794068-1f9f9bde-42c5-4c17-bc21-bec64390172a.png)][1]
 
 [![facebook](https://user-images.githubusercontent.com/100605229/233794065-cfd3b349-7759-4d88-897a-fc5aee7be524.png)][2]
-
 [![linkedin](https://user-images.githubusercontent.com/100605229/233794067-2445410f-9574-45ef-a7c0-11533d11a0d7.png)][3]
 ---
 
 
 [1]: http://www.twitter.com/devonwubiko
-[2]: https://www.linkedin.com/in/okem-onwubiko
-[3]: https://www.facebook.com/onwubikookem
+[2]: https://www.facebook.com/onwubikookem
+[3]: https://www.linkedin.com/in/okem-onwubiko
